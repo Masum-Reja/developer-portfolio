@@ -1,11 +1,19 @@
 * {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-
 }
 
 .text-primary {
     color: #FD6E0A;
+}
+
+.btn-contact {
+    color: #FD6E0A;
+    padding: 18px 35px;
+    background-color: #fff8f3;
+    border: 1px solid #FD6E0A;
+    font-size: 20px;
+    height: 64px;
 }
 
 .btn-primary {
@@ -23,8 +31,7 @@
     background-color: #fff8f3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right, left;
-
+    background-position: bottom right, 30px;
 }
 
 /* header and navigation styles */
@@ -42,7 +49,6 @@ nav ul {
 nav li {
     list-style: none;
     margin-left: 51px;
-
 }
 
 .nav-title {
@@ -89,7 +95,6 @@ section {
     margin-top: 130px;
 }
 
-
 /* about section styles */
 .about {
     background: #FFF8F3;
@@ -103,7 +108,6 @@ section {
     margin-bottom: 50px;
     font-size: 35px;
     font-weight: 700;
-
 }
 
 .section-description {
@@ -120,7 +124,6 @@ section {
 .info-title {
     font-size: 20px;
     color: #757575;
-
 }
 
 .info-description {
